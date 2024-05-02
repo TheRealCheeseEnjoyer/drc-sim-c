@@ -5,6 +5,7 @@
 #ifndef DRC_SIM_C_VIDEO_WII_U_H
 #define DRC_SIM_C_VIDEO_WII_U_H
 #include "../../Packet.h"
+#include <cstdint>
 
 typedef struct {
     unsigned magic : 4;

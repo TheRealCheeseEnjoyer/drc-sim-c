@@ -8,6 +8,7 @@
 
 #include <string>
 #include "../util/OSUtil.h"
+#include <cstdint>
 
 // General
 static const std::string NAME = "DRC Sim Server";
